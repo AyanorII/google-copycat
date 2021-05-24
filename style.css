@@ -47,14 +47,14 @@ input {
     height: 1.875rem;
     /* border-radius: 1.875rem; */
     padding: 0.0625rem;
-    margin-bottom: ;
+    /* margin-bottom: ; */
     border: none;
 
 }
-/* 
+
 input:focus {
     outline-width: 0;
-} */
+}
 
 .central-btn button {
     padding: 0.5rem;
